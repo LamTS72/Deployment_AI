@@ -1,0 +1,27 @@
+2024-10-05 14:13:29,354 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:14:47,101 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:16:03,441 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:16:08,779 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:17:57,589 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:18:08,318 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:18:13,914 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:18:18,855 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:18:25,463 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:19:09,749 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:19:27,710 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:19:27,991 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Predictor name: resnet18
+2024-10-05 14:19:27,991 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Predicted Prob: 0.509131908416748 - Predicted ID: 1 - Predicted Class: Dog
+2024-10-05 14:20:12,830 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:20:14,630 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:20:17,346 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:20:17,568 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Predictor name: resnet18
+2024-10-05 14:20:17,568 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Predicted Prob: 0.509131908416748 - Predicted ID: 1 - Predicted Class: Dog
+2024-10-05 14:22:20,853 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:22:30,213 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:22:32,609 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:22:34,267 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:22:34,502 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Predictor name: resnet18
+2024-10-05 14:22:34,502 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Predicted Prob: 0.509131908416748 - Predicted ID: 1 - Predicted Class: Dog
+2024-10-05 14:22:44,869 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Starting Model Serving
+2024-10-05 14:22:50,785 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Predictor name: resnet18
+2024-10-05 14:22:50,785 - /Users/chessman/Desktop/ML_DL/FastAPI_Tutorials/11_Deploy_ML/models/catdog_predictor.py - INFO - Predicted Prob: 0.509131908416748 - Predicted ID: 1 - Predicted Class: Dog
