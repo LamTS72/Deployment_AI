@@ -96,9 +96,14 @@ The web interface will be available at http://localhost:8501
 
 Here's a demo of the application in action:
 
-![Demo Image](images/image.png)
+<table>
+<tr>
+<td><img src="images/image.png" alt="Demo Image 1" width="400"/></td>
+<td><img src="images/image1.png" alt="Demo Image 2" width="400"/></td>
+</tr>
+</table>
 
-The demo image shows the web interface where:
+The demo images show the web interface where:
 1. A user has uploaded an image
 2. The system has processed it and displayed:
    - The predicted class (Cat/Dog)
@@ -106,7 +111,7 @@ The demo image shows the web interface where:
    - Visual progress bars showing the confidence levels
 3. The interface provides a clean, user-friendly way to interact with the classification model
 
-You can test the application yourself using this demo image or any other cat/dog image.
+You can test the application yourself using these demo images or any other cat/dog image.
 
 ## Notes
 

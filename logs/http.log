@@ -15,3 +15,4 @@
 2025-05-28 09:05:36,547 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "POST /predict 1.1" 404 0.0007727146148681641s
 2025-05-28 09:08:30,705 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.052786827087402344s
 2025-05-28 09:10:38,181 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.03997182846069336s
+2025-05-28 09:31:00,385 - /Users/chessman/Desktop/ML_DL/CVision_Deployment/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.05769085884094238s

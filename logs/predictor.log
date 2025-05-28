@@ -58,3 +58,6 @@
 2025-05-28 09:10:16,274 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/models/catdog_predictor.py - INFO - Starting Model Serving
 2025-05-28 09:10:38,180 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/models/catdog_predictor.py - INFO - Predictor name: resnet18
 2025-05-28 09:10:38,180 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/models/catdog_predictor.py - INFO - Predicted Prob: 0.9999998807907104 - Predicted ID: 0 - Predicted Class: Cat
+2025-05-28 09:30:34,575 - /Users/chessman/Desktop/ML_DL/CVision_Deployment/models/catdog_predictor.py - INFO - Starting Model Serving
+2025-05-28 09:31:00,384 - /Users/chessman/Desktop/ML_DL/CVision_Deployment/models/catdog_predictor.py - INFO - Predictor name: resnet18
+2025-05-28 09:31:00,384 - /Users/chessman/Desktop/ML_DL/CVision_Deployment/models/catdog_predictor.py - INFO - Predicted Prob: 1.0 - Predicted ID: 1 - Predicted Class: Dog
