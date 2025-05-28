@@ -1,0 +1,17 @@
+2025-05-28 08:41:52,968 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 200 0.0013768672943115234s
+2025-05-28 08:41:53,154 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "GET /favicon.ico 1.1" 404 0.0003190040588378906s
+2025-05-28 08:41:58,851 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.006454944610595703s
+2025-05-28 08:41:59,148 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.003776073455810547s
+2025-05-28 08:48:17,832 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.0011000633239746094s
+2025-05-28 08:48:17,968 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.003442049026489258s
+2025-05-28 08:48:21,816 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 200 0.00164031982421875s
+2025-05-28 08:50:42,271 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.0003199577331542969s
+2025-05-28 08:50:42,334 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.0026967525482177734s
+2025-05-28 08:50:48,344 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 200 0.0011637210845947266s
+2025-05-28 08:50:57,101 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.05764293670654297s
+2025-05-28 08:51:38,359 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.026871681213378906s
+2025-05-28 08:53:08,290 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.04656982421875s
+2025-05-28 09:02:58,957 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "POST /predict 1.1" 404 0.0008780956268310547s
+2025-05-28 09:05:36,547 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "POST /predict 1.1" 404 0.0007727146148681641s
+2025-05-28 09:08:30,705 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.052786827087402344s
+2025-05-28 09:10:38,181 - /Users/chessman/Desktop/CODE_INSTRUCTION/deployment_layout/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.03997182846069336s

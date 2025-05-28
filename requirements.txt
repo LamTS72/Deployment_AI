@@ -1,3 +1,6 @@
-python-multipart
-fastapi
-uvicorn
+python-multipart==0.0.6
+fastapi==0.104.1
+uvicorn==0.24.0
+streamlit==1.29.0
+pillow==10.1.0
+requests==2.31.0
