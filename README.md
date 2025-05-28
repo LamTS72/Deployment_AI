@@ -98,7 +98,7 @@ Here's a demo of the application in action:
 
 <table>
 <tr>
-<td><img src="images/image.png" alt="Demo Image 1" width="400"/></td>
+<td><img src="images/image0.png" alt="Demo Image 1" width="400"/></td>
 <td><img src="images/image1.png" alt="Demo Image 2" width="400"/></td>
 </tr>
 </table>
